@@ -1,0 +1,3 @@
+- flotation : column = [index_no name], X1,  date, airflow 01-07, flot level 01-07
+
+- feed: column: column = [index_no_name], X1, date, %irondeed, %silica feed, starch flow(no unit), anima flow(no unit) , ore pulp flow, ore pulp ph, ore pulp density, % iron concentrate, % silica concentrate.
