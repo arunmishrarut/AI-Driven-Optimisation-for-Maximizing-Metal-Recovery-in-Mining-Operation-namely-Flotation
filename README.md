@@ -5,9 +5,10 @@
 * With average iron content in tailings at ≈11%, that means about **154 million tons of iron go unrecovered each year**
 * **Source: en.wikipedia.org**
 
+<br>
 
 **💰 Lost economic value**
-<br>
+
 * Iron ore prices vary, but a reasonable mid-2025 average is around $100 per ton.
 * 154 million tons × $100 ≈ **$15.4 billion lost annually just in iron content**.
 *This **doesn't include other valuable metals** (copper, nickel, cobalt, etc.) **or downstream losses** from lower concentrate quality.
