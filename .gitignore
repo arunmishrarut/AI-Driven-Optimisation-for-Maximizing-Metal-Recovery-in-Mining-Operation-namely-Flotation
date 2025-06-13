@@ -1,6 +1,6 @@
 # Ignore
 2/
-
+main/
 
 #Ignore data
 *.csv
