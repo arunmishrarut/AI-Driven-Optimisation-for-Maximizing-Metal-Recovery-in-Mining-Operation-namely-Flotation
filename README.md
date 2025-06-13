@@ -60,3 +60,9 @@ I build machine learning model—Random Forest—to predict optimal reagent flow
 * Fork the repository to your own GitHub account
 * Clone your forked repo:
 * Run the pipeline using: "python main.py"
+* Click on the gradio live link and screen like below will open.
+  
+![Screenshot 2025-06-13 055735](https://github.com/user-attachments/assets/bf48cdbd-87ce-4bc3-91c2-627a7210b5fc) ![Screenshot 2025-06-13 055751](https://github.com/user-attachments/assets/6d55d044-144f-4b93-a259-e0bd4550db28)
+
+
+  
