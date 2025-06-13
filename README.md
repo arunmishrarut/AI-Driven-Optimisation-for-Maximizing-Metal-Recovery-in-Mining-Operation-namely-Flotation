@@ -21,17 +21,20 @@
 
 **If using AI to automate amine dosing can recover even a fraction of that lost iron—say 5 %** of the 154 million tons (~7.7 Mt)—it could **translate to $770 million in recovered value annually** (at $100/t). 
 
+<br>
 
 🔍 **This project leverages AI to reduce those losses.**
 
 I build machine learning model—Random Forest—to predict optimal reagent flow (Amine collector) based on real-time operational data. The goal: enable intelligent control of flotation processes to maximize iron recovery and minimize chemical waste.
 
 
+<br>
+
 📚 **Dataset & Feature Engineering**
 
-✅ **Raw data**: 580,000+ rows × 29 features, covering ore mineralogy, reagent flow, column sensor data, and concentrate quality.
+**Raw data**: 580,000+ rows × 29 features, covering ore mineralogy, reagent flow, column sensor data, and concentrate quality.
 
-🔬 **Feature selection**: After cleaning, exploratory analysis, multicollinearity checks, and **OLS-based p-value filtering**, we identified **6 highly predictive and minimally correlated features**:
+ **Feature selection**: After cleaning, exploratory analysis, multicollinearity checks, and **OLS-based p-value filtering**, we identified **6 highly predictive and minimally correlated features**:
 
 * Flotation Column 03 Level
 * Flotation Column 06 Level
@@ -41,6 +44,8 @@ I build machine learning model—Random Forest—to predict optimal reagent flow
 * % Silica Concentrate
 
 📉 These features align with metallurgical intuition and provide a robust basis for interpretable AI-driven predictions.
+
+<br>
 
 🔧 **Technical Highlights**
 
