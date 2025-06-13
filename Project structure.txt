@@ -2,7 +2,7 @@ amina-flow-predictor/
 │
 ├── train_data.csv               # Your dataset (should be in this directory)
 ├── main.py                      # Entry point to run the full pipeline
-│
+├── EDA_and_data_cleaning.ipynb  # Data Cleaning and Features' selection.
 ├── data_loader.py               # Loads CSV data
 ├── preprocessing.py             # Feature selection, p-values, train-test split
 ├── model_training.py            # Model training, evaluation, sample prediction
