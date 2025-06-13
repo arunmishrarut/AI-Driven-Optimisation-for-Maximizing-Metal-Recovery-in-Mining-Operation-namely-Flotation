@@ -34,15 +34,10 @@ I build machine learning model—Random Forest—to predict optimal reagent flow
 🔬 **Feature selection**: After cleaning, exploratory analysis, multicollinearity checks, and **OLS-based p-value filtering**, we identified **6 highly predictive and minimally correlated features**:
 
 * Flotation Column 03 Level
-
 * Flotation Column 06 Level
-
 * Starch Flow
-
 * Ore Pulp Flow
-
 * Ore Pulp Density
-
 * % Silica Concentrate
 
 📉 These features align with metallurgical intuition and provide a robust basis for interpretable AI-driven predictions.
@@ -50,11 +45,8 @@ I build machine learning model—Random Forest—to predict optimal reagent flow
 🔧 **Technical Highlights**
 
 * 🧪 Feature selection via **statistical inference (p-values)**
-
 * 🧹 Time-synchronized multi-source data merging
-
 * 📊 Hourly resampling and visualization to identify plant behavior, shutdowns, and sensor drift
-
 * 🔁 Final model-ready dataset crafted to ensure **low multicollinearity and strong process relevance**
 
 🧠 AI models trained to support **real-time or batch optimisation** of flotation reagent dosing
