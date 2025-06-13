@@ -1,3 +1,14 @@
-- flotation : column = [index_no name], X1,  date, airflow 01-07, flot level 01-07
-
-- feed: column: column = [index_no_name], X1, date, %irondeed, %silica feed, starch flow(no unit), anima flow(no unit) , ore pulp flow, ore pulp ph, ore pulp density, % iron concentrate, % silica concentrate.
+amina-flow-predictor/
+│
+├── train_data.csv               # Your dataset (should be in this directory)
+├── main.py                      # Entry point to run the full pipeline
+│
+├── data_loader.py               # Loads CSV data
+├── preprocessing.py             # Feature selection, p-values, train-test split
+├── model_training.py            # Model training, evaluation, sample prediction
+├── interface.py                 # Gradio app interface
+│
+├── model_amina.joblib           # (Generated after training, saved model)
+│
+├── requirements.txt             # Python dependencies
+└── README.md                    # (Optional) Instructions/documentation
