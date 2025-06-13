@@ -10,7 +10,7 @@ def launch_interface(model, features):
             input_dict = {field: float(val) for field, val in zip(fields, args)}
             inputs = np.array([input_dict[col] for col in fields], dtype=np.float32)
             prediction = model.predict(inputs.reshape(1, -1))
-            return (np.round(prediction[0], 2),)
+            return (str(round(float(prediction[0]), 2)),)
         except Exception as e:
             return (f"Error: {str(e)}",)
 
