@@ -13,8 +13,8 @@
 
 * Iron ore prices vary, but a reasonable mid-2025 average is around $100 per ton.
 * 154 million tons × $100 ≈ **$15.4 billion lost annually just in iron content**.
-*This **doesn't include other valuable metals** (copper, nickel, cobalt, etc.) **or downstream losses** from lower concentrate quality.
-*In **North America alone**, the metals **lost** in tailings are valued at **around $20 billion per year**.
+* This **doesn't include other valuable metals** (copper, nickel, cobalt, etc.) **or downstream losses** from lower concentrate quality.
+* In **North America alone**, the metals **lost** in tailings are valued at **around $20 billion per year**.
 
 **✏️ Implications for the project**
 <br>
