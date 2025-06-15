@@ -34,7 +34,7 @@ I build machine learning model—Random Forest—to predict optimal reagent flow
 
 **Raw data**: 580,000+ rows × 29 features, covering ore mineralogy, reagent flow, column sensor data, and concentrate quality.
 
- **Feature selection**: After cleaning, exploratory analysis, multicollinearity checks, and **OLS-based p-value filtering**, we identified **6 highly predictive and minimally correlated features**:
+ **Feature selection**: After cleaning, exploratory analysis, multicollinearity checks, and **OLS-based p-value filtering**, I identified **6 highly predictive and minimally correlated features** for Amina Flow(Collector):
 
 * Flotation Column 03 Level
 * Flotation Column 06 Level
