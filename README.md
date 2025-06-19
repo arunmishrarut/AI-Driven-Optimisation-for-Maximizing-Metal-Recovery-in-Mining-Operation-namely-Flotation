@@ -51,7 +51,7 @@ I build machine learning model—Random Forest—to predict optimal reagent flow
 
 * 🧪 Feature selection via **statistical inference (p-values)**
 * 🧹 Time-synchronized multi-source data merging
-* 📊 Hourly resampling and visualization to identify plant behavior, shutdowns, and sensor drift
+* 📊 Tranformed the data and visualization to identify plant behavior, shutdowns, and sensor drift
 * 🔁 Final model-ready dataset crafted to ensure **low multicollinearity and strong process relevance**
 
 🧠 AI models trained to support **real-time or batch optimisation** of flotation reagent dosing
